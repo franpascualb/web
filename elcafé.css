@@ -1,0 +1,18 @@
+body {
+    background-color: peachpuff;
+}
+
+h1.tit {
+    color: saddlebrown;
+    position: relative;
+    left: 700px;
+    font-weight: 10px;
+}
+
+p.parrafo {
+    color: saddlebrown;
+}
+
+p.parrafo1 {
+    color: saddlebrown;
+}

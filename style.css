@@ -1,0 +1,45 @@
+body {
+    background-color: peachpuff;
+}
+
+h1.Tit {
+    color: saddlebrown;
+    position: relative;
+    left: 600px;
+    font-weight: 10px;
+}
+
+a.web {
+    position: relative;
+    top: 180px;
+}
+
+img.imagen {
+  position: relative;
+  left: 70px;
+}
+
+a.web1 {
+    position: relative;
+    top: 360px;
+    left: 520px
+}
+
+img.imagen1 {
+    position: relative;
+    top: 180px;
+    left: 360px;
+}
+
+a.web2 {
+    position: relative;
+    top: 565px;
+    left: 1120px;
+}
+
+img.imagen2 {
+    position: relative;
+    top: 390px;
+    left: 710px;
+}
+
